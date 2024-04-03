@@ -31,9 +31,9 @@ ATTR_PERSON = "person"
 
 CONF_AZURE_REGION = "azure_region"
 
-DATA_MICROSOFT_FACE = "microsoft_face"
+DATA_MICROSOFT_FACE_CUSTOM = "microsoft_face_custom"
 DEFAULT_TIMEOUT = 10
-DOMAIN = "microsoft_face"
+DOMAIN = "microsoft_face_custom"
 
 FACE_API_URL = "api.cognitiveservices.azure.com/{0}"
 
