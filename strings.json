@@ -44,7 +44,7 @@
         },
         "name": {
           "name": "[%key:common::config_flow::data::name%]",
-          "description": "[%key:component::microsoft_face::services::create_person::fields::name::description%]"
+          "description": "[%key:component::microsoft_face_custom::services::create_person::fields::name::description%]"
         }
       }
     },
@@ -62,7 +62,7 @@
         },
         "person": {
           "name": "Person",
-          "description": "[%key:component::microsoft_face::services::create_person::fields::name::description%]"
+          "description": "[%key:component::microsoft_face_custom::services::create_person::fields::name::description%]"
         }
       }
     },
